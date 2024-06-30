@@ -1,9 +1,8 @@
 R 700 700
 
 F    81  ,114   , 71
-C    87   , 153   , 210
 
-
+C ./textures/zenith.xpm
 
 NO ./textures/bricks_red1.xpm
 SO ./textures/bricks_orange.xpm
