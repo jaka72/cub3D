@@ -8,7 +8,7 @@ The cub3D project is inspired by the classic game Wolfenstein 3D and aims to tea
 
 <p align="center">
   <img src="./example_images/img01.png" alt="Example Image 1" width="150"/>
-  <img src="./example_images/imge02.png" alt="Example Image 2" width="150"/>
+  <img src="./example_images/img02.png" alt="Example Image 2" width="150"/>
   <img src="./example_images/img03.png" alt="Example Image 3" width="150"/>
   <img src="./example_images/img04.png" alt="Example Image 4" width="150"/>
 </p>
