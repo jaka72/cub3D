@@ -5,7 +5,7 @@
 The cub3D project is inspired by the classic game Wolfenstein 3D and aims to teach the fundamentals of ray-casting by developing a dynamic 3D view inside a maze using the miniLibX library. The project emphasizes graphics programming, algorithmic thinking, and rigorous coding standards.
 
 ### Example Image 1:
-![Example Image 1](./example_images/img00.jpg)
+![Example Image 1](./example_images/img00.png)
 
 ### Example Image 2:
 ![Example Image 2](link-to-image2)
