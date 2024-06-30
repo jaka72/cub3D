@@ -4,6 +4,18 @@
 
 The cub3D project is inspired by the classic game Wolfenstein 3D and aims to teach the fundamentals of ray-casting by developing a dynamic 3D view inside a maze using the miniLibX library. The project emphasizes graphics programming, algorithmic thinking, and rigorous coding standards.
 
+### Example Image 1:
+![Example Image 1](./example_images/img00.jpg)
+
+### Example Image 2:
+![Example Image 2](link-to-image2)
+
+### Example Image 3:
+![Example Image 3](link-to-image3)
+
+### Example Image 4:
+![Example Image 4](link-to-image4)
+
 ## Objectives
 
 - Develop skills in C programming, basic algorithms, and information research.
@@ -34,31 +46,12 @@ The cub3D project is inspired by the classic game Wolfenstein 3D and aims to tea
 - Additional features are evaluated only if the mandatory part is flawless.
 - Possible bonuses include wall collisions, a minimap, doors, animated sprites, and mouse-based viewpoint rotation.
 
-## Submission
-
-- Submit the project via a Git repository.
-- Peer evaluations and automated grading will ensure compliance with project standards.
-
 ## Key Learning Outcomes
 
 - Mastery of C programming and adherence to coding standards.
 - Practical experience in graphics programming using miniLibX.
 - Application of ray-casting techniques to create a 3D game environment.
 - Understanding the importance of rigorous testing and error handling in software development.
-
-## Examples
-
-### Example Image 1: Wolfenstein3D Original Game Using RayCasting
-![Example Image 1](link-to-image1)
-
-### Example Image 2: Example of the Mandatory Part
-![Example Image 2](link-to-image2)
-
-### Example Image 3: Bonus Part with Minimap, Floor and Ceiling Textures, and an Animated Sprite
-![Example Image 3](link-to-image3)
-
-### Example Image 4: Bonus Game with a HUD, Health Bar, Shadow Effect, and Weapon that Can Shoot
-![Example Image 4](link-to-image4)
 
 ### Example Image 5: Bonus Game with a Weapon of Your Choice and the Player Looking at the Ceiling
 ![Example Image 5](link-to-image5)
