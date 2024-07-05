@@ -63,8 +63,3 @@ The cub3D project is inspired by the classic game Wolfenstein 3D and aims to tea
 - Practical experience in graphics programming using miniLibX.
 - Application of ray-casting techniques to create a 3D game environment.
 - Understanding the importance of rigorous testing and error handling in software development.
-
-### Example Image 5: Bonus Game with a Weapon of Your Choice and the Player Looking at the Ceiling
-![Example Image 5](link-to-image5)
-
-This project offers a practical and engaging way to explore the intersection of graphics programming and algorithmic problem-solving, providing a strong foundation for future projects in computer graphics and game development.
